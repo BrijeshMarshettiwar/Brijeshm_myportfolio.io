@@ -45,3 +45,7 @@ h1{
 .connected{
     background-color: rgb(34, 34, 34);
 }
+
+a:hover{
+    color: #fff;
+}
